@@ -1,0 +1,20 @@
+{
+  "name": "node-ts-examples",
+  "version": "1.0.0",
+  "description": "Examples for using the proxydi package",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write \"**/*.{ts,json,md}\""
+  },
+  "dependencies": {
+    "proxydi": "^0.0.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.24.1",
+    "@typescript-eslint/parser": "^8.24.1",
+    "eslint": "^9.20.1",
+    "prettier": "^3.5.1",
+    "typescript": "^5.7.3"
+  }
+}
