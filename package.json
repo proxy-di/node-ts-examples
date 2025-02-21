@@ -8,7 +8,7 @@
     "format": "prettier --write \"**/*.{ts,json,md}\""
   },
   "dependencies": {
-    "proxydi": "^0.0.5"
+    "proxydi": "^0.0.7"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.24.1",
